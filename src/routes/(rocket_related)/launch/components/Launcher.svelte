@@ -6,6 +6,8 @@
 	function handleLaunch() {
 		isLaunched = true;
 	}
+
+	$inspect('isLaunched', isLaunched);
 </script>
 
 <div class="mt-3 flex flex-col items-center gap-3">
